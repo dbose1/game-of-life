@@ -5,7 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
-
+//Aufrufen der GridPage
 @DefaultUrl("http://localhost:9090/gameoflife/new")
 public class EnterGridPage extends GameOfLifePage {
 
